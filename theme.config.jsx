@@ -1,5 +1,5 @@
 export default {
-    footer: <p>Park 2023 © Nextra.</p>,
+    footer: <p>Park 2023 © Nextra</p>,
     head: ({ title, meta }) => (
       <>
         {meta.description && (
